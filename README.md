@@ -19,12 +19,12 @@ The dataset contains data of individual residential properties in Ames, Iowa fro
 
 ## Approach taken:
 
-1.EDA
-2.Data Cleaning (missing value, wrong value, wrong data type, skewness, outliers)
-3.Feature Engineering
-4.Use some ML algorithm to predict the SalePrice
-5.Perform Hyperparameter tunning for the best performing algorithm
-6.Use full dataset to train model and predict for the test data set and submit the result.
+1.EDA  
+2.Data Cleaning (missing value, wrong value, wrong data type, skewness, outliers)  
+3.Feature Engineering.
+4.Use some ML algorithm to predict the SalePrice  
+5.Perform Hyperparameter tunning for the best performing algorithm  
+6.Use full dataset to train model and predict for the test data set and submit the result.  
 
 
 ## Result:
