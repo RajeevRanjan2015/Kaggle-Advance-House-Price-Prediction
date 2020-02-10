@@ -29,3 +29,4 @@ The dataset contains data of individual residential properties in Ames, Iowa fro
 
 ## Result:
 
+sample_submission.csv file need to be submitted for evaluation.
